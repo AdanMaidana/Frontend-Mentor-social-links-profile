@@ -98,6 +98,12 @@ footer {
 
   a {
     color: #fff;
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    text-decoration-thickness: 1px;
+    transition: text-decoration-color .2s ease-in;
   }
+
+  a:hover {
+    text-decoration-color: #fff;  }
 }
