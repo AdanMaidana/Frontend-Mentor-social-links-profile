@@ -76,14 +76,14 @@ main {
       font-size: .9rem;
       color: #fff;
       text-decoration: none;
-      font-weight: 500;
+      font-weight: 600;
       transition: color .2s ease-in, background-color .2s ease-in;
       cursor: pointer;
     }
 
     a:hover {
-      background-color: #fff;
-      color: #333333;
+      background-color: hsl(75, 94%, 57%);
+      color: #000;
     }
   }
 }
@@ -98,12 +98,11 @@ footer {
 
   a {
     color: #fff;
-    text-decoration: underline;
-    text-decoration-color: transparent;
-    text-decoration-thickness: 1px;
-    transition: text-decoration-color .2s ease-in;
+    transition: color .2s ease-in;
+    text-decoration: none;
   }
 
   a:hover {
-    text-decoration-color: #fff;  }
+    color: hsl(75, 94%, 57%);
+  }
 }
