@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-WKiNuURWWo)
-- Live Site URL: [Visit the Live Site](https://adanmaidana.github.io/Frontend-Mentor-qr-code-component/)
+- Solution URL: [View My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-UwBARLymNq)
+- Live Site URL: [Visit the Live Site](https://adanmaidana.github.io/Frontend-Mentor-social-links-profile/)
 
 ## My process
 
