@@ -13,7 +13,7 @@ Users should be able to:
 ### Screenshot
 
 ### Desktop Preview
-![](./design/destkop-design.jpg)
+![](./design/desktop-design.jpg)
 
 ### Mobile Preview
 ![](./design/mobile-design.jpg)
